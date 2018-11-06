@@ -20,7 +20,7 @@
 
 ## Supply
 
-* [Untitled](supply/untitled.md)
+* [Supply](supply/untitled.md)
 
 ## Restrictions
 
