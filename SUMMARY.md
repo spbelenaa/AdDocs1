@@ -8,5 +8,21 @@
 
 ## Dashboard
 
-* [Untitled](dashboard/untitled.md)
+* [Dashboard](dashboard/untitled.md)
+
+## Reports
+
+* [Overview report](reports/overview-report.md)
+
+## Demand
+
+* [Demand](demand/untitled.md)
+
+## Supply
+
+* [Untitled](supply/untitled.md)
+
+## Restrictions
+
+* [Restictions](restrictions/restictions.md)
 
