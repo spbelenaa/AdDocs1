@@ -5,7 +5,7 @@
 ## Account
 
 * [Settings](account/settings.md)
-* [page2](account/settings/page2.md)
+* [page2](account/page2.md)
 
 ## Dashboard
 
