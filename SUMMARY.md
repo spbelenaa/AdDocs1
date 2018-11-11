@@ -6,9 +6,9 @@
 
 ## Account
 
+* [page1](account/page1.md)
 * [Account](account/account/README.md)
   * [settings](account/account/settings.md)
-* [page1](account/page1.md)
 * [page2](account/page2.md)
 
 ## Dashboard
