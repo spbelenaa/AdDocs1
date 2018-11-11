@@ -4,8 +4,8 @@
 
 ## Account
 
-* [Account](account.md)
-  * [settings](account/settings.md)
+* [Account](account/account/README.md)
+  * [settings](account/account/settings.md)
 
 ## Dashboard
 
